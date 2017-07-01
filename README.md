@@ -1,6 +1,7 @@
 # Frontend for SPA «ПомойАвто»
 
 It is a frontend for single page application. Reach JavaScript is present.
+This page provides registred user (if he's not registred yet - he can do it on a signup page) cars list by cookies.
 
 # Deploy on localhost
 
